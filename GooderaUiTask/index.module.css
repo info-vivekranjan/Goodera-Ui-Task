@@ -180,3 +180,45 @@ line-height: 21px;
 
 color: #FFFFFF;
 }
+
+.findDreamJob{
+    /* Find Your Dream Job */
+
+
+position: absolute;
+width: 511px;
+height: 72px;
+left: 143px;
+top: 142px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.browseThrough{
+    /* Browse through thousands of full-time or part-time jobs near you */
+
+
+position: absolute;
+width: 654px;
+height: 30px;
+left: 143px;
+top: 207px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
