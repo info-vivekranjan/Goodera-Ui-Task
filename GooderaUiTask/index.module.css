@@ -438,3 +438,268 @@ line-height: 36px;
 color: #FFFFFF;
 
 }
+
+.card-1{
+    /* Card */
+
+
+position: absolute;
+width: 560px;
+height: 200px;
+left: 737px;
+top: 915px;
+}
+
+.card1-title{
+
+    /* Executive Producer */
+
+
+position: absolute;
+width: 229px;
+height: 36px;
+left: 939px;
+top: 940px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.card1-para{
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. */
+
+
+position: absolute;
+width: 336px;
+height: 63px;
+left: 940px;
+top: 979px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+
+color: #7B7B7B;
+}
+
+.card1-rectangle{
+    /* Rectangle 13 */
+
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: 769px;
+top: 940px;
+
+background: #C4C4C4;
+border-radius: 16px;
+}
+.card1-Bg{
+    /* Bg */
+
+
+position: absolute;
+width: 560px;
+height: 200px;
+left: 737px;
+top: 915px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.05);
+border-radius: 24px;
+}
+
+.card1-button{
+
+    /* Button */
+
+
+position: absolute;
+width: 120px;
+height: 40px;
+left: 1136px;
+top: 1050px;
+}
+.card1-btnText{
+    /* View Details */
+
+
+position: absolute;
+width: 87px;
+height: 21px;
+left: 1153px;
+top: 1060px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #F07987;
+}
+
+.card1-btnBorder{
+    /* Rectangle 12 */
+
+
+position: absolute;
+width: 120px;
+height: 40px;
+left: 1136px;
+top: 1050px;
+
+border: 2px solid #F07987;
+box-sizing: border-box;
+border-radius: 8px;
+}
+
+
+
+
+/* .card-1 */
+
+
+
+.card-2{
+/* Card */
+
+
+position: absolute;
+width: 560px;
+height: 200px;
+left: 737px;
+top: 684px;
+
+}
+
+.card2-title{
+
+/* Executive Producer */
+
+
+position: absolute;
+width: 229px;
+height: 36px;
+left: 939px;
+top: 709px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.card2-para{
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. */
+
+
+position: absolute;
+width: 336px;
+height: 63px;
+left: 940px;
+top: 748px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+
+color: #7B7B7B;
+
+}
+
+.card2-rectangle{
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: 769px;
+top: 709px;
+
+background: #C4C4C4;
+border-radius: 16px;
+
+}
+.card2-Bg{
+    /* Bg */
+
+
+position: absolute;
+width: 560px;
+height: 200px;
+left: 737px;
+top: 684px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.05);
+border-radius: 24px;
+}
+
+.card2-button{
+
+/* Button */
+
+
+position: absolute;
+width: 120px;
+height: 40px;
+left: 1136px;
+top: 819px;
+}
+.card2-btnText{
+/* View Details */
+
+
+position: absolute;
+width: 87px;
+height: 21px;
+left: 1153px;
+top: 829px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #F07987;
+
+}
+
+.card2-btnBorder{
+/* Rectangle 12 */
+
+
+position: absolute;
+width: 120px;
+height: 40px;
+left: 1136px;
+top: 819px;
+
+border: 2px solid #F07987;
+box-sizing: border-box;
+border-radius: 8px;
+}
